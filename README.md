@@ -1,8 +1,7 @@
 # E-FCOS: Enhanced Historical Text Detection with Fast Fourier Transform Denoising and Adaptive Multi-scale Fusion
 
 ## Description
-This is the official implementation for our paper **E-FCOS: Enhanced Historical Text Detection with Fast Fourier Transform Denoising and Adaptive Multi-scale Fusion** submitted to ICDAR 2025.  
-The paper is currently under review. Source codes will be updated here once the paper is accepted.
+This repository contains the official implementation of our paper **E-FCOS: Enhanced Historical Text Detection with Fast Fourier Transform Denoising and Adaptive Multi-scale Fusion**, have been accepted at ICDAR 2025✅.
 
 ---
 
