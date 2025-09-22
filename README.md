@@ -51,15 +51,18 @@ python3 predict.py
 ---
 ## Visualization
 <img width="1000" alt="Overall Architecture" src="output/Vis.jpg" />
+
 ## Citation
 If you find the code or trained models useful, please consider citing:
+
+```bibtex
 @ARTICLE{9585453,  
-author={Menghui Liu, Guanghui Wang, Lang Yu, Yilan Yang, Lingfeng Shen & Heng Li },  
-journal={ICDAR25},  
-title={E-FCOS: Enhanced Historical Text Detection with Fast Fourier Transform Denoising and Adaptive Multi-scale Fusion},  
-year={2025},  
-volume={pp 362–381},  
-number={},  
-pages={pp 362–381},  
-doi={10.1007/978-3-032-04627-7_21}  
+  author={Menghui Liu, Guanghui Wang, Lang Yu, Yilan Yang, Lingfeng Shen & Heng Li},  
+  journal={ICDAR25},  
+  title={E-FCOS: Enhanced Historical Text Detection with Fast Fourier Transform Denoising and Adaptive Multi-scale Fusion},  
+  year={2025},  
+  volume={pp 362–381},  
+  number={},  
+  pages={pp 362–381},  
+  doi={10.1007/978-3-032-04627-7_21}  
 }
