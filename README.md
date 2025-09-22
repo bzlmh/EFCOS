@@ -57,12 +57,13 @@ If you find the code or trained models useful, please consider citing:
 
 ```bibtex
 @ARTICLE{9585453,  
-  author={Menghui Liu, Guanghui Wang, Lang Yu, Yilan Yang, Lingfeng Shen & Heng Li},  
-  journal={ICDAR25},  
+  author={Menghui Liu and Guanghui Wang and Lang Yu and Yilan Yang and Lingfeng Shen and Heng Li},  
+  journal={ICDAR 2025},  
   title={E-FCOS: Enhanced Historical Text Detection with Fast Fourier Transform Denoising and Adaptive Multi-scale Fusion},  
   year={2025},  
-  volume={pp 362–381},  
+  volume={},  
   number={},  
-  pages={pp 362–381},  
+  pages={362--381},  
   doi={10.1007/978-3-032-04627-7_21}  
 }
+
