@@ -56,7 +56,7 @@ python3 predict.py
 If you find the code or trained models useful, please consider citing:
 
 ```bibtex
-@ARTICLE{9585453,  
+@ARTICLE{e-fcos,  
   author={Menghui Liu and Guanghui Wang and Lang Yu and Yilan Yang and Lingfeng Shen and Heng Li},  
   journal={ICDAR 2025},  
   title={E-FCOS: Enhanced Historical Text Detection with Fast Fourier Transform Denoising and Adaptive Multi-scale Fusion},  
